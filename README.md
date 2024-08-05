@@ -11,7 +11,7 @@ MobiCal is a React application designed to replicate the Mobiscroll monthly cale
 
 # 🌟 Usage
 
-- **Access the Application**:Visit http://localhost:3000 to start using the MobiCal.
+- **Access the Application**:Vist the site https://mobical.vercel.app/.
 - **Drag and Drop Events**: Add and move events using drag-and-drop functionality.
 - **Color-Coding**: Observe different colors assigned to events for better organization.
 - **Manage Resources**: Add and view events associated with various resources.

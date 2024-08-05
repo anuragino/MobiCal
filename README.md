@@ -26,16 +26,16 @@ MobiCal is a React application designed to replicate the Mobiscroll monthly cale
 
 ## 📝 Learnings and Future Enhancements
 
-# Q.1 Three things that you learned from this assignment?
-  - 1. **Drag-and-Drop Functionality:** I learned how to implement smooth drag-and-drop features in a user interface.
-  - 2. **State Management:** I understood how to manage and synchronize states for dates and events effectively.
-  - 3. **Event Handling in Calendar Views:** I grasped how to handle various events and user interactions in calendar views.
+### Q.1 Three things that you learned from this assignment?
+  1. **Drag-and-Drop Functionality:** I learned how to implement smooth drag-and-drop features in a user interface.
+  2. **State Management:** I understood how to manage and synchronize states for dates and events effectively.
+  3. **Event Handling in Calendar Views:** I grasped how to handle various events and user interactions in calendar views.
 
 
-# Q.2 What was the most difficult part of the assignment?
+### Q.2 What was the most difficult part of the assignment?
  - The toughest part for me was getting the drag-and-drop feature just right. It was challenging to manage event positioning and resizing while ensuring everything worked smoothly for the user.
 
-# Q.3 What you would have done differently given more time?
+### Q.3 What you would have done differently given more time?
   - If I had more time, I’d focus on making the interface mobile-friendly and integrate a meeting booking feature, similar to the functionality provided by Calendly. This would enhance usability and offer more comprehensive scheduling options.
 
      
